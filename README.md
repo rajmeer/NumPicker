@@ -1,2 +1,0 @@
-# NumPicker
-Created with CodeSandbox
